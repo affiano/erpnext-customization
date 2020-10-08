@@ -8,7 +8,8 @@
   "service_item",
   "type",
   "frequency",
-  "expense_amount"
+  "expense_amount",
+  "allesgut"
  ],
  "fields": [
   {
@@ -41,11 +42,18 @@
    "in_list_view": 1,
    "label": "Expense",
    "reqd": 1
+  },
+  {
+   "default": "0",
+   "fieldname": "allesgut",
+   "fieldtype": "Check",
+   "label": "Allesgut",
+   "options": "test1\ntest2\ntest3\ntest4"
   }
  ],
  "istable": 1,
- "modified": "2020-08-31 17:23:05.137764",
- "modified_by": "Administrator",
+ "modified": "2020-10-06 14:46:07.612028",
+ "modified_by": "oorganista@jugendhilfe-wuemmetal.de",
  "module": "HR",
  "name": "Vehicle Service",
  "owner": "Administrator",
