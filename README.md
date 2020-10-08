@@ -1,3 +1,4 @@
+<img src="http://www.jugendhilfe-wuemmetal.de/wp-content/uploads/2015/06/logo_371x100.png">
 # ERPNext for Jugendhilfe Wümmetal
 
 This ist NOT the offical ERPNext Repository, here are the customizations of ERPNext for a german company. For the Original ERPNext Repository follow this Link: https://github.com/frappe/erpnext
