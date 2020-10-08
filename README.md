@@ -5,6 +5,8 @@
         <p>ERP made simple</p>
     </p>
 
+This ist NOT the offical ERPNext Repository, here are the customizations of ERPNext for a german company. For the Original ERPNext Repository follow this Link: https://github.com/frappe/erpnext
+
 [![Build Status](https://travis-ci.com/frappe/erpnext.svg)](https://travis-ci.com/frappe/erpnext)
 [![Open Source Helpers](https://www.codetriage.com/frappe/erpnext/badges/users.svg)](https://www.codetriage.com/frappe/erpnext)
 [![Coverage Status](https://coveralls.io/repos/github/frappe/erpnext/badge.svg?branch=develop)](https://coveralls.io/github/frappe/erpnext?branch=develop)
